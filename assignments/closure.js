@@ -1,6 +1,14 @@
 // ==== Challenge 1: Write your own closure ====
 // Write a simple closure of your own creation.  Keep it simple!
 
+const dank = 'memes';
+function returnMyMemes () {
+  return dank;
+}
+returnMyMemes();
+
+console.log(returnMyMemes);
+
 
 /* STRETCH PROBLEMS, Do not attempt until you have completed all previous tasks for today's project files */
 
